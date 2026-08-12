@@ -18,3 +18,7 @@ This repository contains my learning and practice.
 ## My First Goal
 
 My goal is to become a DevOps Engineer and build strong practical skills.
+
+## Branch Practice
+
+I am learning how Git branches work.
