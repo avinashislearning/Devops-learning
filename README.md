@@ -15,3 +15,6 @@ I am starting my journey toward becoming a DevOps Engineer.
 - Kubernetes
 
 This repository contains my learning and practice.
+## My First Goal
+
+My goal is to become a DevOps Engineer and build strong practical skills.
